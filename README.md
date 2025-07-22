@@ -24,7 +24,7 @@ Install MongoDB and clone the project:
 git clone https://github.com/your-username/BLOG-REST-API.git
 cd BLOG-REST-API
 npm install
-
+```
 ---
 
 ## Usage
